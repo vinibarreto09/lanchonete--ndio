@@ -1,0 +1,13 @@
+Pedido:
+- Coxinha - R$7.00
+- Coxinha - R$7.00
+- Água - R$5.00
+Total: R$19.00
+--------------------
+Cliente: vini
+Pedido:
+- Coxinha - R$7.00
+- Coxinha - R$7.00
+- Dogão - R$6.00
+Total: R$20.00
+--------------------
